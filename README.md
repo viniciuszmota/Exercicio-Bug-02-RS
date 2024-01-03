@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto 02 - RocketSeat </h1>
+<h1 align="center"> Exercício Bug 02 - RocketSeat </h1>
 
 <p align="center">
 Treine me 
